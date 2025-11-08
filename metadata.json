@@ -1,0 +1,5 @@
+{
+  "name": "Fluxo de Caixa",
+  "description": "A web application to manage and visualize cash flow entries, similar to a spreadsheet, with a dashboard for key performance indicators.",
+  "requestFramePermissions": []
+}
